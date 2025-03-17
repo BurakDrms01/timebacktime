@@ -11,6 +11,7 @@ for i in range(sayi,-1,-1):
 winsound.Beep(2500, 3000)  # 1000 Hz frekansta 1 saniye ses çalar
 print("Geri sayım bitti")
 
+print("commit eklendi")
 
 
 
